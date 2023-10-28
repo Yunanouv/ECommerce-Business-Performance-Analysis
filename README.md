@@ -28,10 +28,9 @@ The first step to analyze is ensuring the data is ready to be used. A local data
 **Average MAU** : The average Monthly Active Users (MAU) per year  
 **Total New Cust** : Total of new customers each year   
 **Total Cust Repeat Oder** : Total customers who repeat order in a year  
-**Average Order** : The average number of transactions per customer  
 
-![image](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/7c4a4398-9f79-427e-9ba4-8bd8281ddde3)  
-![image](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/545cd2f9-a0cb-4491-9b87-eca0c100a9ee)  
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/7c4a4398-9f79-427e-9ba4-8bd8281ddde3" alt="MAU_cust1" style="width:350px;height:250px;">  
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/545cd2f9-a0cb-4491-9b87-eca0c100a9ee" alt="MAU_cust2" style="width:350px;height:250px;">    
 
 From the graph of Average MAU, we can see that active users per year have increased rapidly from 2016 to 2017 and grew constantly until 2018. The same thing goes with total new customers which grew tremendously from under 1k to 52k. We can conclude that new customers have a big impact on active user growth.
 
