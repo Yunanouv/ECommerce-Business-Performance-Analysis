@@ -51,7 +51,7 @@ Meanwhile, the total number of customers who repeated orders increased from 2016
 <br>
 
 ## 2. Annual Product Category Quality  
-<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/d99fc1e6-c595-4aa2-9aba-971d5bcddce2" alt="table_product" style="width:660px;height:140px;">  
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/d99fc1e6-c595-4aa2-9aba-971d5bcddce2" alt="table_product" style="width:680px;height:140px;">  
 
 **Description**  
 
@@ -78,6 +78,38 @@ Just as delivered orders are increasing, canceled orders are also increasing. As
 <br>
 Here are the top and most canceled products for each year. Every year has a different dynamic of product interests.
 However, the interesting thing here is in 2018, the health and beauty category was the top product that gave the highest revenue and the most canceled product at the same time. This might happen because in 2018 the product category that dominated all transactions was health & beauty. Further analysis can be carried out to confirm this.
+
+
+## 3. Annual Payment Type Usage   
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/8f16d9f4-f41a-4285-a817-10b19bc723fb"  alt="table_payment" style="width:550px;height:140px;">  
+
+**Description**   
+
+**Payment Type:** Type of payment  
+**Year 2016:** Payment type usage in 2016  
+**Year 2017:** Payment type usage in 2017  
+**Year 2018:** Payment type usage in 2018  
+**Total Usage:** Total payment type usage in 2016-2018  
+<br>
+<div align="center">
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/c6e18938-17a9-43e9-98f4-e23897fe0905" alt="payment1" style="width:450px;height:300px;">
+</div>
+<br>
+
+Just the same important as customer and order analysis, payment type needs to be analyzed as well to support the transaction flow. From this pie chart, credit card was the top payment type in 2016-2018. Meanwhile, debit card is the least. The not-defined type of payment is only 3 in 3 years in total, not a big deal. 
+<br> <br>
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/aa55a04f-4bdb-4c09-a525-a9853ba16302" alt="payment1" style="width:330px;height:180px;">
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/be9a55cb-f59e-41d2-b17a-5ea8c23044f6" alt="payment2" style="width:330px;height:180px;">
+<img src="https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis/assets/146415555/722c9ac5-e97e-464d-aaf0-f0f81917a52b" alt="payment2" style="width:330px;height:180px;">
+<br>
+
+From the comparison chart above, the increase in payment type is linear to customer and order increases. Credit card was the most used payment type for three years in a row. However, the gap between credit cards and other types of payment is very large. This could indicate that our customers are consumer people or that they think the easiest payment is by using a credit card.
+
+For this reason, for business recommendation we can:
+1. Collaborate with banks to provide promotions and discounts to customers who use their credit cards
+2. Adding more other payment types to make it easier for customers to make transactions
+
+
 
 
 
