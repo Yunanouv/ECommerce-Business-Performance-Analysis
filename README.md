@@ -105,7 +105,7 @@ Just the same important as customer and order analysis, payment type needs to be
 
 From the comparison chart above, the increase in payment type is linear to customer and order increases. Credit card was the most used payment type for three years in a row. However, the gap between credit cards and other types of payment is very large. This could indicate that our customers are consumer people or that they think the easiest payment is by using a credit card.
 
-For this reason, for business recommendation we can:
+For this reason, for business recommendation, we can:
 1. Collaborate with banks to provide promotions and discounts to customers who use their credit cards
 2. Adding more other payment types to make it easier for customers to make transactions
 
